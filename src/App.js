@@ -1,7 +1,8 @@
 // import Komponen from "./Materi/Komponen";
 // import Styling from "./Materi/Styling";
 
-import Reusable from "./Reusable";
+import Rendering from "./Materi/Rendering";
+// import Reusable from "./Reusable";
 // import Portofolio from "./tugas/Portofolio";
 
 function App() {
@@ -10,7 +11,8 @@ function App() {
       {/* <Komponen /> */}
       {/* <Styling /> */}
       {/* <Portofolio /> */}
-      <Reusable />
+      {/* <Reusable /> */}
+      <Rendering />
     </div>
   );
 }
