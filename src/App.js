@@ -1,7 +1,9 @@
 // import Komponen from "./Materi/Komponen";
 // import Styling from "./Materi/Styling";
 
-import Rendering from "./Materi/Rendering";
+// import Form from "./Materi/Form";
+import FormRegist from "./Materi/FormRegist";
+// import Rendering from "./Materi/Rendering";
 // import Reusable from "./Reusable";
 // import Portofolio from "./tugas/Portofolio";
 
@@ -12,7 +14,9 @@ function App() {
       {/* <Styling /> */}
       {/* <Portofolio /> */}
       {/* <Reusable /> */}
-      <Rendering />
+      {/* <Rendering /> */}
+      {/* <Form /> */}
+      <FormRegist />
     </div>
   );
 }
